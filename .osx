@@ -134,7 +134,7 @@ defaults write NSGlobalDomain KeyRepeat -int 1
 defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false
 
 # Mouse scroll natural
-defaults write -g com.apple.swipescrolldirection -bool false
+defaults write -g com.apple.swipescrolldirection -bool true
 
 ###############################################################################
 # Screen                                                                      #
